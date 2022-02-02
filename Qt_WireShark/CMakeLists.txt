@@ -17,5 +17,6 @@ target_link_libraries(Qt_WireShark
         Qt5::Core
         Qt5::Gui
         Qt5::Widgets
+        pthread
         )
 
